@@ -1,0 +1,13 @@
+.gitattributes
+LICENSE
+setup.cfg
+setup.py
+src/DOHExadataCx.egg-info/PKG-INFO
+src/DOHExadataCx.egg-info/SOURCES.txt
+src/DOHExadataCx.egg-info/dependency_links.txt
+src/DOHExadataCx.egg-info/requires.txt
+src/DOHExadataCx.egg-info/top_level.txt
+src/dohexadatacx/__init__.py
+src/dohexadatacx/cfg.py
+src/dohexadatacx/test.py
+src/dohexadatacx/__pycache__/cfg.cpython-38.pyc
